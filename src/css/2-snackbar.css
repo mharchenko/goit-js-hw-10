@@ -1,0 +1,39 @@
+.div {
+  display: flex;
+  padding-left: 156px;
+  margin-top: 36px;
+}
+.form {
+}
+.label-input {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 8px;
+  width: 272px;
+  height: 40px;
+}
+.number {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 8px;
+  width: 272px;
+  height: 40px;
+}
+.set {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 8px;
+  width: 272px;
+  height: 40px;
+}
+.button {
+  margin-top: 8px;
+  width: 272px;
+  height: 40px;
+}
